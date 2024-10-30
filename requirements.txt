@@ -1,0 +1,19 @@
+# Manipulation et analyse de données
+pandas==1.5.3
+numpy==1.24.1
+
+# Statistiques et calcul scientifique
+scipy==1.10.0
+
+# Machine Learning et modélisation
+scikit-learn==1.2.0
+
+# Visualisation de données
+matplotlib==3.6.3
+seaborn==0.12.2
+plotly==5.11.0 
+
+
+deap
+xgboost
+streamlit
